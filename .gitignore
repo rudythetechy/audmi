@@ -1,0 +1,44 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Packaging and build output
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Test and coverage output
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+
+# Editors
+.vscode/
+.idea/
+
+# Local model weights and caches
+models/downloaded_slm/**
+!models/downloaded_slm/.gitkeep
+
+# Generated data and outputs; preserve schemas and source generators
+data/outputs/
+data/synthetic/generated/
+
+# Docker local state
+.docker/
+
+# OS temporary files
+.DS_Store
+Thumbs.db
+Desktop.ini
