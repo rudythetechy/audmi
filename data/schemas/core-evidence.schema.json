@@ -1,0 +1,45 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://audmi.local/schemas/core-evidence.schema.json",
+  "title": "AudMi Canonical Evidence Entities",
+  "description": "Identifier-linked core records. Cross-record referential integrity is validated by future ingestion code; workflow records are optional and are not embedded in their parent records.",
+  "$defs": {
+    "identifier": { "type": "string", "minLength": 1 },
+    "utcDateTime": { "type": "string", "format": "date-time", "description": "Timezone-aware timestamp expressed in UTC (Z or +00:00)." },
+    "CSE": {
+      "type": "object", "additionalProperties": false,
+      "required": ["cse_id", "name", "peer_group"],
+      "properties": { "cse_id": { "$ref": "#/$defs/identifier" }, "name": { "$ref": "#/$defs/identifier" }, "peer_group": { "$ref": "#/$defs/identifier" } }
+    },
+    "Asset": {
+      "type": "object", "additionalProperties": false,
+      "required": ["asset_id", "cse_id", "criticality", "asset_type"],
+      "properties": { "asset_id": { "$ref": "#/$defs/identifier" }, "cse_id": { "$ref": "#/$defs/identifier" }, "criticality": { "$ref": "#/$defs/identifier" }, "asset_type": { "$ref": "#/$defs/identifier" } }
+    },
+    "Alert": {
+      "type": "object", "additionalProperties": false,
+      "required": ["alert_id", "cse_id", "asset_id", "severity", "category", "created_at"],
+      "properties": { "alert_id": { "$ref": "#/$defs/identifier" }, "cse_id": { "$ref": "#/$defs/identifier" }, "asset_id": { "$ref": "#/$defs/identifier" }, "severity": { "type": "string", "enum": ["informational", "low", "medium", "high", "critical"] }, "category": { "$ref": "#/$defs/identifier" }, "created_at": { "$ref": "#/$defs/utcDateTime" }, "closed_at": { "anyOf": [{ "$ref": "#/$defs/utcDateTime" }, { "type": "null" }] } }
+    },
+    "Case": {
+      "type": "object", "additionalProperties": false,
+      "required": ["case_id", "cse_id", "alert_id", "status", "opened_at"],
+      "properties": { "case_id": { "$ref": "#/$defs/identifier" }, "cse_id": { "$ref": "#/$defs/identifier" }, "alert_id": { "$ref": "#/$defs/identifier" }, "status": { "type": "string", "enum": ["new", "open", "in_progress", "closed", "resolved"] }, "opened_at": { "$ref": "#/$defs/utcDateTime" }, "closed_at": { "anyOf": [{ "$ref": "#/$defs/utcDateTime" }, { "type": "null" }] } }
+    },
+    "Investigation": {
+      "type": "object", "additionalProperties": false,
+      "required": ["investigation_id", "case_id", "started_at", "analyst_id", "evidence_count"],
+      "properties": { "investigation_id": { "$ref": "#/$defs/identifier" }, "case_id": { "$ref": "#/$defs/identifier" }, "started_at": { "$ref": "#/$defs/utcDateTime" }, "ended_at": { "anyOf": [{ "$ref": "#/$defs/utcDateTime" }, { "type": "null" }] }, "analyst_id": { "$ref": "#/$defs/identifier" }, "evidence_count": { "type": "integer", "minimum": 0 } }
+    },
+    "Escalation": {
+      "type": "object", "additionalProperties": false,
+      "required": ["escalation_id", "case_id", "escalation_type", "escalated_at"],
+      "properties": { "escalation_id": { "$ref": "#/$defs/identifier" }, "case_id": { "$ref": "#/$defs/identifier" }, "escalation_type": { "$ref": "#/$defs/identifier" }, "escalated_at": { "$ref": "#/$defs/utcDateTime" } }
+    },
+    "Remediation": {
+      "type": "object", "additionalProperties": false,
+      "required": ["remediation_id", "case_id", "action"],
+      "properties": { "remediation_id": { "$ref": "#/$defs/identifier" }, "case_id": { "$ref": "#/$defs/identifier" }, "action": { "$ref": "#/$defs/identifier" }, "completed_at": { "anyOf": [{ "$ref": "#/$defs/utcDateTime" }, { "type": "null" }] } }
+    }
+  }
+}

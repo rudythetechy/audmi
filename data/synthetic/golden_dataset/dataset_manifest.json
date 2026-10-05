@@ -1,0 +1,15 @@
+{
+  "format_version": 1,
+  "seed": 42,
+  "counts": {
+    "cse": 6,
+    "assets": 300,
+    "alerts": 10000,
+    "cases": 2000,
+    "investigations": 1500,
+    "escalations": 300,
+    "remediations": 100
+  },
+  "ground_truth_file": "ground_truth.json",
+  "operational_record_labeling": false
+}

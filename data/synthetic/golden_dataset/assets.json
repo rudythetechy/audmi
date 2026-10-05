@@ -1,0 +1,1802 @@
+[
+  {
+    "asset_id": "AST-01-001",
+    "cse_id": "CSE-01",
+    "criticality": "critical",
+    "asset_type": "network_device"
+  },
+  {
+    "asset_id": "AST-01-002",
+    "cse_id": "CSE-01",
+    "criticality": "critical",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-01-003",
+    "cse_id": "CSE-01",
+    "criticality": "critical",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-01-004",
+    "cse_id": "CSE-01",
+    "criticality": "critical",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-01-005",
+    "cse_id": "CSE-01",
+    "criticality": "critical",
+    "asset_type": "network_device"
+  },
+  {
+    "asset_id": "AST-01-006",
+    "cse_id": "CSE-01",
+    "criticality": "critical",
+    "asset_type": "network_device"
+  },
+  {
+    "asset_id": "AST-01-007",
+    "cse_id": "CSE-01",
+    "criticality": "critical",
+    "asset_type": "security_appliance"
+  },
+  {
+    "asset_id": "AST-01-008",
+    "cse_id": "CSE-01",
+    "criticality": "critical",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-01-009",
+    "cse_id": "CSE-01",
+    "criticality": "critical",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-01-010",
+    "cse_id": "CSE-01",
+    "criticality": "critical",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-01-011",
+    "cse_id": "CSE-01",
+    "criticality": "high",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-01-012",
+    "cse_id": "CSE-01",
+    "criticality": "high",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-01-013",
+    "cse_id": "CSE-01",
+    "criticality": "medium",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-01-014",
+    "cse_id": "CSE-01",
+    "criticality": "high",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-01-015",
+    "cse_id": "CSE-01",
+    "criticality": "low",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-01-016",
+    "cse_id": "CSE-01",
+    "criticality": "low",
+    "asset_type": "network_device"
+  },
+  {
+    "asset_id": "AST-01-017",
+    "cse_id": "CSE-01",
+    "criticality": "medium",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-01-018",
+    "cse_id": "CSE-01",
+    "criticality": "low",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-01-019",
+    "cse_id": "CSE-01",
+    "criticality": "high",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-01-020",
+    "cse_id": "CSE-01",
+    "criticality": "low",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-01-021",
+    "cse_id": "CSE-01",
+    "criticality": "low",
+    "asset_type": "network_device"
+  },
+  {
+    "asset_id": "AST-01-022",
+    "cse_id": "CSE-01",
+    "criticality": "medium",
+    "asset_type": "security_appliance"
+  },
+  {
+    "asset_id": "AST-01-023",
+    "cse_id": "CSE-01",
+    "criticality": "medium",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-01-024",
+    "cse_id": "CSE-01",
+    "criticality": "low",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-01-025",
+    "cse_id": "CSE-01",
+    "criticality": "low",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-01-026",
+    "cse_id": "CSE-01",
+    "criticality": "medium",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-01-027",
+    "cse_id": "CSE-01",
+    "criticality": "high",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-01-028",
+    "cse_id": "CSE-01",
+    "criticality": "high",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-01-029",
+    "cse_id": "CSE-01",
+    "criticality": "high",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-01-030",
+    "cse_id": "CSE-01",
+    "criticality": "medium",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-01-031",
+    "cse_id": "CSE-01",
+    "criticality": "medium",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-01-032",
+    "cse_id": "CSE-01",
+    "criticality": "high",
+    "asset_type": "security_appliance"
+  },
+  {
+    "asset_id": "AST-01-033",
+    "cse_id": "CSE-01",
+    "criticality": "medium",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-01-034",
+    "cse_id": "CSE-01",
+    "criticality": "high",
+    "asset_type": "network_device"
+  },
+  {
+    "asset_id": "AST-01-035",
+    "cse_id": "CSE-01",
+    "criticality": "high",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-01-036",
+    "cse_id": "CSE-01",
+    "criticality": "low",
+    "asset_type": "network_device"
+  },
+  {
+    "asset_id": "AST-01-037",
+    "cse_id": "CSE-01",
+    "criticality": "medium",
+    "asset_type": "network_device"
+  },
+  {
+    "asset_id": "AST-01-038",
+    "cse_id": "CSE-01",
+    "criticality": "low",
+    "asset_type": "network_device"
+  },
+  {
+    "asset_id": "AST-01-039",
+    "cse_id": "CSE-01",
+    "criticality": "high",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-01-040",
+    "cse_id": "CSE-01",
+    "criticality": "medium",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-01-041",
+    "cse_id": "CSE-01",
+    "criticality": "high",
+    "asset_type": "security_appliance"
+  },
+  {
+    "asset_id": "AST-01-042",
+    "cse_id": "CSE-01",
+    "criticality": "low",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-01-043",
+    "cse_id": "CSE-01",
+    "criticality": "medium",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-01-044",
+    "cse_id": "CSE-01",
+    "criticality": "low",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-01-045",
+    "cse_id": "CSE-01",
+    "criticality": "high",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-01-046",
+    "cse_id": "CSE-01",
+    "criticality": "medium",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-01-047",
+    "cse_id": "CSE-01",
+    "criticality": "medium",
+    "asset_type": "security_appliance"
+  },
+  {
+    "asset_id": "AST-01-048",
+    "cse_id": "CSE-01",
+    "criticality": "medium",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-01-049",
+    "cse_id": "CSE-01",
+    "criticality": "low",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-01-050",
+    "cse_id": "CSE-01",
+    "criticality": "high",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-02-001",
+    "cse_id": "CSE-02",
+    "criticality": "critical",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-02-002",
+    "cse_id": "CSE-02",
+    "criticality": "critical",
+    "asset_type": "network_device"
+  },
+  {
+    "asset_id": "AST-02-003",
+    "cse_id": "CSE-02",
+    "criticality": "critical",
+    "asset_type": "database"
+  },
+  {
+    "asset_id": "AST-02-004",
+    "cse_id": "CSE-02",
+    "criticality": "critical",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-02-005",
+    "cse_id": "CSE-02",
+    "criticality": "critical",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-02-006",
+    "cse_id": "CSE-02",
+    "criticality": "critical",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-02-007",
+    "cse_id": "CSE-02",
+    "criticality": "critical",
+    "asset_type": "security_appliance"
+  },
+  {
+    "asset_id": "AST-02-008",
+    "cse_id": "CSE-02",
+    "criticality": "critical",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-02-009",
+    "cse_id": "CSE-02",
+    "criticality": "critical",
+    "asset_type": "security_appliance"
+  },
+  {
+    "asset_id": "AST-02-010",
+    "cse_id": "CSE-02",
+    "criticality": "critical",
+    "asset_type": "database"
+  },
+  {
+    "asset_id": "AST-02-011",
+    "cse_id": "CSE-02",
+    "criticality": "high",
+    "asset_type": "network_device"
+  },
+  {
+    "asset_id": "AST-02-012",
+    "cse_id": "CSE-02",
+    "criticality": "medium",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-02-013",
+    "cse_id": "CSE-02",
+    "criticality": "high",
+    "asset_type": "network_device"
+  },
+  {
+    "asset_id": "AST-02-014",
+    "cse_id": "CSE-02",
+    "criticality": "high",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-02-015",
+    "cse_id": "CSE-02",
+    "criticality": "medium",
+    "asset_type": "security_appliance"
+  },
+  {
+    "asset_id": "AST-02-016",
+    "cse_id": "CSE-02",
+    "criticality": "low",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-02-017",
+    "cse_id": "CSE-02",
+    "criticality": "medium",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-02-018",
+    "cse_id": "CSE-02",
+    "criticality": "low",
+    "asset_type": "database"
+  },
+  {
+    "asset_id": "AST-02-019",
+    "cse_id": "CSE-02",
+    "criticality": "medium",
+    "asset_type": "network_device"
+  },
+  {
+    "asset_id": "AST-02-020",
+    "cse_id": "CSE-02",
+    "criticality": "medium",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-02-021",
+    "cse_id": "CSE-02",
+    "criticality": "low",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-02-022",
+    "cse_id": "CSE-02",
+    "criticality": "low",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-02-023",
+    "cse_id": "CSE-02",
+    "criticality": "high",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-02-024",
+    "cse_id": "CSE-02",
+    "criticality": "high",
+    "asset_type": "security_appliance"
+  },
+  {
+    "asset_id": "AST-02-025",
+    "cse_id": "CSE-02",
+    "criticality": "low",
+    "asset_type": "database"
+  },
+  {
+    "asset_id": "AST-02-026",
+    "cse_id": "CSE-02",
+    "criticality": "medium",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-02-027",
+    "cse_id": "CSE-02",
+    "criticality": "low",
+    "asset_type": "security_appliance"
+  },
+  {
+    "asset_id": "AST-02-028",
+    "cse_id": "CSE-02",
+    "criticality": "high",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-02-029",
+    "cse_id": "CSE-02",
+    "criticality": "high",
+    "asset_type": "network_device"
+  },
+  {
+    "asset_id": "AST-02-030",
+    "cse_id": "CSE-02",
+    "criticality": "low",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-02-031",
+    "cse_id": "CSE-02",
+    "criticality": "medium",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-02-032",
+    "cse_id": "CSE-02",
+    "criticality": "high",
+    "asset_type": "database"
+  },
+  {
+    "asset_id": "AST-02-033",
+    "cse_id": "CSE-02",
+    "criticality": "medium",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-02-034",
+    "cse_id": "CSE-02",
+    "criticality": "medium",
+    "asset_type": "network_device"
+  },
+  {
+    "asset_id": "AST-02-035",
+    "cse_id": "CSE-02",
+    "criticality": "high",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-02-036",
+    "cse_id": "CSE-02",
+    "criticality": "low",
+    "asset_type": "network_device"
+  },
+  {
+    "asset_id": "AST-02-037",
+    "cse_id": "CSE-02",
+    "criticality": "medium",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-02-038",
+    "cse_id": "CSE-02",
+    "criticality": "high",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-02-039",
+    "cse_id": "CSE-02",
+    "criticality": "medium",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-02-040",
+    "cse_id": "CSE-02",
+    "criticality": "high",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-02-041",
+    "cse_id": "CSE-02",
+    "criticality": "high",
+    "asset_type": "network_device"
+  },
+  {
+    "asset_id": "AST-02-042",
+    "cse_id": "CSE-02",
+    "criticality": "high",
+    "asset_type": "security_appliance"
+  },
+  {
+    "asset_id": "AST-02-043",
+    "cse_id": "CSE-02",
+    "criticality": "low",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-02-044",
+    "cse_id": "CSE-02",
+    "criticality": "high",
+    "asset_type": "network_device"
+  },
+  {
+    "asset_id": "AST-02-045",
+    "cse_id": "CSE-02",
+    "criticality": "high",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-02-046",
+    "cse_id": "CSE-02",
+    "criticality": "low",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-02-047",
+    "cse_id": "CSE-02",
+    "criticality": "medium",
+    "asset_type": "database"
+  },
+  {
+    "asset_id": "AST-02-048",
+    "cse_id": "CSE-02",
+    "criticality": "low",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-02-049",
+    "cse_id": "CSE-02",
+    "criticality": "high",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-02-050",
+    "cse_id": "CSE-02",
+    "criticality": "medium",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-03-001",
+    "cse_id": "CSE-03",
+    "criticality": "critical",
+    "asset_type": "network_device"
+  },
+  {
+    "asset_id": "AST-03-002",
+    "cse_id": "CSE-03",
+    "criticality": "critical",
+    "asset_type": "network_device"
+  },
+  {
+    "asset_id": "AST-03-003",
+    "cse_id": "CSE-03",
+    "criticality": "critical",
+    "asset_type": "security_appliance"
+  },
+  {
+    "asset_id": "AST-03-004",
+    "cse_id": "CSE-03",
+    "criticality": "critical",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-03-005",
+    "cse_id": "CSE-03",
+    "criticality": "critical",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-03-006",
+    "cse_id": "CSE-03",
+    "criticality": "critical",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-03-007",
+    "cse_id": "CSE-03",
+    "criticality": "critical",
+    "asset_type": "database"
+  },
+  {
+    "asset_id": "AST-03-008",
+    "cse_id": "CSE-03",
+    "criticality": "critical",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-03-009",
+    "cse_id": "CSE-03",
+    "criticality": "critical",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-03-010",
+    "cse_id": "CSE-03",
+    "criticality": "critical",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-03-011",
+    "cse_id": "CSE-03",
+    "criticality": "medium",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-03-012",
+    "cse_id": "CSE-03",
+    "criticality": "high",
+    "asset_type": "security_appliance"
+  },
+  {
+    "asset_id": "AST-03-013",
+    "cse_id": "CSE-03",
+    "criticality": "medium",
+    "asset_type": "database"
+  },
+  {
+    "asset_id": "AST-03-014",
+    "cse_id": "CSE-03",
+    "criticality": "medium",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-03-015",
+    "cse_id": "CSE-03",
+    "criticality": "low",
+    "asset_type": "database"
+  },
+  {
+    "asset_id": "AST-03-016",
+    "cse_id": "CSE-03",
+    "criticality": "low",
+    "asset_type": "security_appliance"
+  },
+  {
+    "asset_id": "AST-03-017",
+    "cse_id": "CSE-03",
+    "criticality": "low",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-03-018",
+    "cse_id": "CSE-03",
+    "criticality": "medium",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-03-019",
+    "cse_id": "CSE-03",
+    "criticality": "medium",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-03-020",
+    "cse_id": "CSE-03",
+    "criticality": "medium",
+    "asset_type": "security_appliance"
+  },
+  {
+    "asset_id": "AST-03-021",
+    "cse_id": "CSE-03",
+    "criticality": "high",
+    "asset_type": "database"
+  },
+  {
+    "asset_id": "AST-03-022",
+    "cse_id": "CSE-03",
+    "criticality": "medium",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-03-023",
+    "cse_id": "CSE-03",
+    "criticality": "low",
+    "asset_type": "security_appliance"
+  },
+  {
+    "asset_id": "AST-03-024",
+    "cse_id": "CSE-03",
+    "criticality": "medium",
+    "asset_type": "network_device"
+  },
+  {
+    "asset_id": "AST-03-025",
+    "cse_id": "CSE-03",
+    "criticality": "high",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-03-026",
+    "cse_id": "CSE-03",
+    "criticality": "low",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-03-027",
+    "cse_id": "CSE-03",
+    "criticality": "medium",
+    "asset_type": "network_device"
+  },
+  {
+    "asset_id": "AST-03-028",
+    "cse_id": "CSE-03",
+    "criticality": "high",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-03-029",
+    "cse_id": "CSE-03",
+    "criticality": "medium",
+    "asset_type": "database"
+  },
+  {
+    "asset_id": "AST-03-030",
+    "cse_id": "CSE-03",
+    "criticality": "high",
+    "asset_type": "security_appliance"
+  },
+  {
+    "asset_id": "AST-03-031",
+    "cse_id": "CSE-03",
+    "criticality": "high",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-03-032",
+    "cse_id": "CSE-03",
+    "criticality": "medium",
+    "asset_type": "network_device"
+  },
+  {
+    "asset_id": "AST-03-033",
+    "cse_id": "CSE-03",
+    "criticality": "high",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-03-034",
+    "cse_id": "CSE-03",
+    "criticality": "low",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-03-035",
+    "cse_id": "CSE-03",
+    "criticality": "medium",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-03-036",
+    "cse_id": "CSE-03",
+    "criticality": "medium",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-03-037",
+    "cse_id": "CSE-03",
+    "criticality": "medium",
+    "asset_type": "security_appliance"
+  },
+  {
+    "asset_id": "AST-03-038",
+    "cse_id": "CSE-03",
+    "criticality": "high",
+    "asset_type": "network_device"
+  },
+  {
+    "asset_id": "AST-03-039",
+    "cse_id": "CSE-03",
+    "criticality": "high",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-03-040",
+    "cse_id": "CSE-03",
+    "criticality": "medium",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-03-041",
+    "cse_id": "CSE-03",
+    "criticality": "medium",
+    "asset_type": "network_device"
+  },
+  {
+    "asset_id": "AST-03-042",
+    "cse_id": "CSE-03",
+    "criticality": "high",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-03-043",
+    "cse_id": "CSE-03",
+    "criticality": "low",
+    "asset_type": "security_appliance"
+  },
+  {
+    "asset_id": "AST-03-044",
+    "cse_id": "CSE-03",
+    "criticality": "high",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-03-045",
+    "cse_id": "CSE-03",
+    "criticality": "high",
+    "asset_type": "security_appliance"
+  },
+  {
+    "asset_id": "AST-03-046",
+    "cse_id": "CSE-03",
+    "criticality": "low",
+    "asset_type": "database"
+  },
+  {
+    "asset_id": "AST-03-047",
+    "cse_id": "CSE-03",
+    "criticality": "medium",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-03-048",
+    "cse_id": "CSE-03",
+    "criticality": "low",
+    "asset_type": "network_device"
+  },
+  {
+    "asset_id": "AST-03-049",
+    "cse_id": "CSE-03",
+    "criticality": "medium",
+    "asset_type": "security_appliance"
+  },
+  {
+    "asset_id": "AST-03-050",
+    "cse_id": "CSE-03",
+    "criticality": "medium",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-04-001",
+    "cse_id": "CSE-04",
+    "criticality": "critical",
+    "asset_type": "database"
+  },
+  {
+    "asset_id": "AST-04-002",
+    "cse_id": "CSE-04",
+    "criticality": "critical",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-04-003",
+    "cse_id": "CSE-04",
+    "criticality": "critical",
+    "asset_type": "network_device"
+  },
+  {
+    "asset_id": "AST-04-004",
+    "cse_id": "CSE-04",
+    "criticality": "critical",
+    "asset_type": "security_appliance"
+  },
+  {
+    "asset_id": "AST-04-005",
+    "cse_id": "CSE-04",
+    "criticality": "critical",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-04-006",
+    "cse_id": "CSE-04",
+    "criticality": "critical",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-04-007",
+    "cse_id": "CSE-04",
+    "criticality": "critical",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-04-008",
+    "cse_id": "CSE-04",
+    "criticality": "critical",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-04-009",
+    "cse_id": "CSE-04",
+    "criticality": "critical",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-04-010",
+    "cse_id": "CSE-04",
+    "criticality": "critical",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-04-011",
+    "cse_id": "CSE-04",
+    "criticality": "medium",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-04-012",
+    "cse_id": "CSE-04",
+    "criticality": "medium",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-04-013",
+    "cse_id": "CSE-04",
+    "criticality": "medium",
+    "asset_type": "security_appliance"
+  },
+  {
+    "asset_id": "AST-04-014",
+    "cse_id": "CSE-04",
+    "criticality": "low",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-04-015",
+    "cse_id": "CSE-04",
+    "criticality": "medium",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-04-016",
+    "cse_id": "CSE-04",
+    "criticality": "high",
+    "asset_type": "network_device"
+  },
+  {
+    "asset_id": "AST-04-017",
+    "cse_id": "CSE-04",
+    "criticality": "medium",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-04-018",
+    "cse_id": "CSE-04",
+    "criticality": "medium",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-04-019",
+    "cse_id": "CSE-04",
+    "criticality": "medium",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-04-020",
+    "cse_id": "CSE-04",
+    "criticality": "high",
+    "asset_type": "database"
+  },
+  {
+    "asset_id": "AST-04-021",
+    "cse_id": "CSE-04",
+    "criticality": "low",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-04-022",
+    "cse_id": "CSE-04",
+    "criticality": "low",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-04-023",
+    "cse_id": "CSE-04",
+    "criticality": "high",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-04-024",
+    "cse_id": "CSE-04",
+    "criticality": "medium",
+    "asset_type": "security_appliance"
+  },
+  {
+    "asset_id": "AST-04-025",
+    "cse_id": "CSE-04",
+    "criticality": "low",
+    "asset_type": "database"
+  },
+  {
+    "asset_id": "AST-04-026",
+    "cse_id": "CSE-04",
+    "criticality": "low",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-04-027",
+    "cse_id": "CSE-04",
+    "criticality": "high",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-04-028",
+    "cse_id": "CSE-04",
+    "criticality": "low",
+    "asset_type": "database"
+  },
+  {
+    "asset_id": "AST-04-029",
+    "cse_id": "CSE-04",
+    "criticality": "medium",
+    "asset_type": "network_device"
+  },
+  {
+    "asset_id": "AST-04-030",
+    "cse_id": "CSE-04",
+    "criticality": "high",
+    "asset_type": "security_appliance"
+  },
+  {
+    "asset_id": "AST-04-031",
+    "cse_id": "CSE-04",
+    "criticality": "low",
+    "asset_type": "security_appliance"
+  },
+  {
+    "asset_id": "AST-04-032",
+    "cse_id": "CSE-04",
+    "criticality": "low",
+    "asset_type": "database"
+  },
+  {
+    "asset_id": "AST-04-033",
+    "cse_id": "CSE-04",
+    "criticality": "high",
+    "asset_type": "network_device"
+  },
+  {
+    "asset_id": "AST-04-034",
+    "cse_id": "CSE-04",
+    "criticality": "medium",
+    "asset_type": "security_appliance"
+  },
+  {
+    "asset_id": "AST-04-035",
+    "cse_id": "CSE-04",
+    "criticality": "low",
+    "asset_type": "database"
+  },
+  {
+    "asset_id": "AST-04-036",
+    "cse_id": "CSE-04",
+    "criticality": "low",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-04-037",
+    "cse_id": "CSE-04",
+    "criticality": "low",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-04-038",
+    "cse_id": "CSE-04",
+    "criticality": "low",
+    "asset_type": "database"
+  },
+  {
+    "asset_id": "AST-04-039",
+    "cse_id": "CSE-04",
+    "criticality": "high",
+    "asset_type": "database"
+  },
+  {
+    "asset_id": "AST-04-040",
+    "cse_id": "CSE-04",
+    "criticality": "medium",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-04-041",
+    "cse_id": "CSE-04",
+    "criticality": "low",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-04-042",
+    "cse_id": "CSE-04",
+    "criticality": "high",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-04-043",
+    "cse_id": "CSE-04",
+    "criticality": "medium",
+    "asset_type": "database"
+  },
+  {
+    "asset_id": "AST-04-044",
+    "cse_id": "CSE-04",
+    "criticality": "low",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-04-045",
+    "cse_id": "CSE-04",
+    "criticality": "medium",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-04-046",
+    "cse_id": "CSE-04",
+    "criticality": "low",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-04-047",
+    "cse_id": "CSE-04",
+    "criticality": "low",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-04-048",
+    "cse_id": "CSE-04",
+    "criticality": "low",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-04-049",
+    "cse_id": "CSE-04",
+    "criticality": "low",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-04-050",
+    "cse_id": "CSE-04",
+    "criticality": "high",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-05-001",
+    "cse_id": "CSE-05",
+    "criticality": "critical",
+    "asset_type": "network_device"
+  },
+  {
+    "asset_id": "AST-05-002",
+    "cse_id": "CSE-05",
+    "criticality": "critical",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-05-003",
+    "cse_id": "CSE-05",
+    "criticality": "critical",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-05-004",
+    "cse_id": "CSE-05",
+    "criticality": "critical",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-05-005",
+    "cse_id": "CSE-05",
+    "criticality": "critical",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-05-006",
+    "cse_id": "CSE-05",
+    "criticality": "critical",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-05-007",
+    "cse_id": "CSE-05",
+    "criticality": "critical",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-05-008",
+    "cse_id": "CSE-05",
+    "criticality": "critical",
+    "asset_type": "network_device"
+  },
+  {
+    "asset_id": "AST-05-009",
+    "cse_id": "CSE-05",
+    "criticality": "critical",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-05-010",
+    "cse_id": "CSE-05",
+    "criticality": "critical",
+    "asset_type": "security_appliance"
+  },
+  {
+    "asset_id": "AST-05-011",
+    "cse_id": "CSE-05",
+    "criticality": "medium",
+    "asset_type": "network_device"
+  },
+  {
+    "asset_id": "AST-05-012",
+    "cse_id": "CSE-05",
+    "criticality": "medium",
+    "asset_type": "network_device"
+  },
+  {
+    "asset_id": "AST-05-013",
+    "cse_id": "CSE-05",
+    "criticality": "medium",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-05-014",
+    "cse_id": "CSE-05",
+    "criticality": "medium",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-05-015",
+    "cse_id": "CSE-05",
+    "criticality": "medium",
+    "asset_type": "database"
+  },
+  {
+    "asset_id": "AST-05-016",
+    "cse_id": "CSE-05",
+    "criticality": "medium",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-05-017",
+    "cse_id": "CSE-05",
+    "criticality": "medium",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-05-018",
+    "cse_id": "CSE-05",
+    "criticality": "medium",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-05-019",
+    "cse_id": "CSE-05",
+    "criticality": "high",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-05-020",
+    "cse_id": "CSE-05",
+    "criticality": "low",
+    "asset_type": "network_device"
+  },
+  {
+    "asset_id": "AST-05-021",
+    "cse_id": "CSE-05",
+    "criticality": "low",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-05-022",
+    "cse_id": "CSE-05",
+    "criticality": "medium",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-05-023",
+    "cse_id": "CSE-05",
+    "criticality": "high",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-05-024",
+    "cse_id": "CSE-05",
+    "criticality": "medium",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-05-025",
+    "cse_id": "CSE-05",
+    "criticality": "medium",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-05-026",
+    "cse_id": "CSE-05",
+    "criticality": "medium",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-05-027",
+    "cse_id": "CSE-05",
+    "criticality": "medium",
+    "asset_type": "security_appliance"
+  },
+  {
+    "asset_id": "AST-05-028",
+    "cse_id": "CSE-05",
+    "criticality": "low",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-05-029",
+    "cse_id": "CSE-05",
+    "criticality": "high",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-05-030",
+    "cse_id": "CSE-05",
+    "criticality": "medium",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-05-031",
+    "cse_id": "CSE-05",
+    "criticality": "low",
+    "asset_type": "network_device"
+  },
+  {
+    "asset_id": "AST-05-032",
+    "cse_id": "CSE-05",
+    "criticality": "medium",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-05-033",
+    "cse_id": "CSE-05",
+    "criticality": "high",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-05-034",
+    "cse_id": "CSE-05",
+    "criticality": "high",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-05-035",
+    "cse_id": "CSE-05",
+    "criticality": "low",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-05-036",
+    "cse_id": "CSE-05",
+    "criticality": "medium",
+    "asset_type": "network_device"
+  },
+  {
+    "asset_id": "AST-05-037",
+    "cse_id": "CSE-05",
+    "criticality": "high",
+    "asset_type": "network_device"
+  },
+  {
+    "asset_id": "AST-05-038",
+    "cse_id": "CSE-05",
+    "criticality": "medium",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-05-039",
+    "cse_id": "CSE-05",
+    "criticality": "medium",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-05-040",
+    "cse_id": "CSE-05",
+    "criticality": "low",
+    "asset_type": "network_device"
+  },
+  {
+    "asset_id": "AST-05-041",
+    "cse_id": "CSE-05",
+    "criticality": "high",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-05-042",
+    "cse_id": "CSE-05",
+    "criticality": "high",
+    "asset_type": "security_appliance"
+  },
+  {
+    "asset_id": "AST-05-043",
+    "cse_id": "CSE-05",
+    "criticality": "medium",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-05-044",
+    "cse_id": "CSE-05",
+    "criticality": "high",
+    "asset_type": "database"
+  },
+  {
+    "asset_id": "AST-05-045",
+    "cse_id": "CSE-05",
+    "criticality": "medium",
+    "asset_type": "database"
+  },
+  {
+    "asset_id": "AST-05-046",
+    "cse_id": "CSE-05",
+    "criticality": "medium",
+    "asset_type": "security_appliance"
+  },
+  {
+    "asset_id": "AST-05-047",
+    "cse_id": "CSE-05",
+    "criticality": "medium",
+    "asset_type": "security_appliance"
+  },
+  {
+    "asset_id": "AST-05-048",
+    "cse_id": "CSE-05",
+    "criticality": "low",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-05-049",
+    "cse_id": "CSE-05",
+    "criticality": "medium",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-05-050",
+    "cse_id": "CSE-05",
+    "criticality": "low",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-06-001",
+    "cse_id": "CSE-06",
+    "criticality": "critical",
+    "asset_type": "security_appliance"
+  },
+  {
+    "asset_id": "AST-06-002",
+    "cse_id": "CSE-06",
+    "criticality": "critical",
+    "asset_type": "network_device"
+  },
+  {
+    "asset_id": "AST-06-003",
+    "cse_id": "CSE-06",
+    "criticality": "critical",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-06-004",
+    "cse_id": "CSE-06",
+    "criticality": "critical",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-06-005",
+    "cse_id": "CSE-06",
+    "criticality": "critical",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-06-006",
+    "cse_id": "CSE-06",
+    "criticality": "critical",
+    "asset_type": "network_device"
+  },
+  {
+    "asset_id": "AST-06-007",
+    "cse_id": "CSE-06",
+    "criticality": "critical",
+    "asset_type": "network_device"
+  },
+  {
+    "asset_id": "AST-06-008",
+    "cse_id": "CSE-06",
+    "criticality": "critical",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-06-009",
+    "cse_id": "CSE-06",
+    "criticality": "critical",
+    "asset_type": "network_device"
+  },
+  {
+    "asset_id": "AST-06-010",
+    "cse_id": "CSE-06",
+    "criticality": "critical",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-06-011",
+    "cse_id": "CSE-06",
+    "criticality": "high",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-06-012",
+    "cse_id": "CSE-06",
+    "criticality": "high",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-06-013",
+    "cse_id": "CSE-06",
+    "criticality": "medium",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-06-014",
+    "cse_id": "CSE-06",
+    "criticality": "high",
+    "asset_type": "network_device"
+  },
+  {
+    "asset_id": "AST-06-015",
+    "cse_id": "CSE-06",
+    "criticality": "medium",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-06-016",
+    "cse_id": "CSE-06",
+    "criticality": "medium",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-06-017",
+    "cse_id": "CSE-06",
+    "criticality": "medium",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-06-018",
+    "cse_id": "CSE-06",
+    "criticality": "medium",
+    "asset_type": "security_appliance"
+  },
+  {
+    "asset_id": "AST-06-019",
+    "cse_id": "CSE-06",
+    "criticality": "medium",
+    "asset_type": "network_device"
+  },
+  {
+    "asset_id": "AST-06-020",
+    "cse_id": "CSE-06",
+    "criticality": "low",
+    "asset_type": "network_device"
+  },
+  {
+    "asset_id": "AST-06-021",
+    "cse_id": "CSE-06",
+    "criticality": "medium",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-06-022",
+    "cse_id": "CSE-06",
+    "criticality": "medium",
+    "asset_type": "network_device"
+  },
+  {
+    "asset_id": "AST-06-023",
+    "cse_id": "CSE-06",
+    "criticality": "low",
+    "asset_type": "security_appliance"
+  },
+  {
+    "asset_id": "AST-06-024",
+    "cse_id": "CSE-06",
+    "criticality": "medium",
+    "asset_type": "network_device"
+  },
+  {
+    "asset_id": "AST-06-025",
+    "cse_id": "CSE-06",
+    "criticality": "medium",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-06-026",
+    "cse_id": "CSE-06",
+    "criticality": "high",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-06-027",
+    "cse_id": "CSE-06",
+    "criticality": "medium",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-06-028",
+    "cse_id": "CSE-06",
+    "criticality": "medium",
+    "asset_type": "network_device"
+  },
+  {
+    "asset_id": "AST-06-029",
+    "cse_id": "CSE-06",
+    "criticality": "medium",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-06-030",
+    "cse_id": "CSE-06",
+    "criticality": "medium",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-06-031",
+    "cse_id": "CSE-06",
+    "criticality": "medium",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-06-032",
+    "cse_id": "CSE-06",
+    "criticality": "medium",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-06-033",
+    "cse_id": "CSE-06",
+    "criticality": "high",
+    "asset_type": "network_device"
+  },
+  {
+    "asset_id": "AST-06-034",
+    "cse_id": "CSE-06",
+    "criticality": "high",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-06-035",
+    "cse_id": "CSE-06",
+    "criticality": "high",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-06-036",
+    "cse_id": "CSE-06",
+    "criticality": "high",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-06-037",
+    "cse_id": "CSE-06",
+    "criticality": "low",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-06-038",
+    "cse_id": "CSE-06",
+    "criticality": "low",
+    "asset_type": "database"
+  },
+  {
+    "asset_id": "AST-06-039",
+    "cse_id": "CSE-06",
+    "criticality": "high",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-06-040",
+    "cse_id": "CSE-06",
+    "criticality": "high",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-06-041",
+    "cse_id": "CSE-06",
+    "criticality": "low",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-06-042",
+    "cse_id": "CSE-06",
+    "criticality": "medium",
+    "asset_type": "database"
+  },
+  {
+    "asset_id": "AST-06-043",
+    "cse_id": "CSE-06",
+    "criticality": "medium",
+    "asset_type": "network_device"
+  },
+  {
+    "asset_id": "AST-06-044",
+    "cse_id": "CSE-06",
+    "criticality": "low",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-06-045",
+    "cse_id": "CSE-06",
+    "criticality": "high",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-06-046",
+    "cse_id": "CSE-06",
+    "criticality": "high",
+    "asset_type": "network_device"
+  },
+  {
+    "asset_id": "AST-06-047",
+    "cse_id": "CSE-06",
+    "criticality": "medium",
+    "asset_type": "server"
+  },
+  {
+    "asset_id": "AST-06-048",
+    "cse_id": "CSE-06",
+    "criticality": "medium",
+    "asset_type": "network_device"
+  },
+  {
+    "asset_id": "AST-06-049",
+    "cse_id": "CSE-06",
+    "criticality": "high",
+    "asset_type": "workstation"
+  },
+  {
+    "asset_id": "AST-06-050",
+    "cse_id": "CSE-06",
+    "criticality": "medium",
+    "asset_type": "server"
+  }
+]
